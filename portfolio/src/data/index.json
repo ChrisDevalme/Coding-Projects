@@ -1,0 +1,28 @@
+{
+    "skills": [
+        {
+            "id": 1,
+            "src": "./img/product-chain-1.png",
+            "title": "Front-End",
+            "description": "As a front-end developer, I craft seamless and visually appealing user experiences on the web. My expertise lies in translating design concepts into interactive and responsive websites that captivate users."
+        },
+        {
+            "id": 2,
+            "src": "./img/tag-1.png",
+            "title": "Back-End",
+            "description": "As a backend developer, I build the robust and invisible foundation that powers your web applications. Behind the scenes, I work with databases, server logic, and APIs to ensure seamless functionality and data management."
+        },
+        {
+            "id": 3,
+            "src": "./img/feather-pen-2.png",
+            "title": "UI & UX Design",
+            "description": "On the UI side, I bring designs to life with a keen eye for aesthetics and a deep understanding of visual hierarchy. From color palettes to typography, I meticulously craft interfaces that not only look good but also enhances usability"
+        },
+        {
+            "id": 4,
+            "src": "./img/product-chain-1.png",
+            "title": "Web Flow Development",
+            "description": "Lorem ipsum dolor sit amet, consectrtur lors jame mjwen djewjend. jneded."
+        }
+    ]
+}
