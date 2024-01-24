@@ -24,5 +24,29 @@
             "title": "Web Flow Development",
             "description": "Lorem ipsum dolor sit amet, consectrtur lors jame mjwen djewjend. jneded."
         }
+    ],
+    "portfolio": [
+        {
+            "id": 1,
+            "src": "./img/placeholder-image.png",
+            "title": "SaaS App",
+            "description": "As a front-end developer, I craft seamless and visually appealing user experiences on the web. My expertise lies in translating design concepts into interactive and responsive websites that captivate users.",
+            "link": "View in Github"
+        },
+        {
+            "id": 2,
+            "src": "./img/placeholder-image-1.png",
+            "title": "Exspense Tracker",
+            "description": "As a backend developer, I build the robust and invisible foundation that powers your web applications. Behind the scenes, I work with databases, server logic, and APIs to ensure seamless functionality and data management.",
+            "link": "View in Github"
+        },
+        {
+            "id": 3,
+            "src": "./img/placeholder-image-1.png",
+            "title": "UI & UX Design",
+            "description": "On the UI side, I bring designs to life with a keen eye for aesthetics and a deep understanding of visual hierarchy. From color palettes to typography, I meticulously craft interfaces that not only look good but also enhances usability",
+            "link": "View in Github"
+        }
+       
     ]
 }
