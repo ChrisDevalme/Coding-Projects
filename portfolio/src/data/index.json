@@ -2,51 +2,68 @@
     "skills": [
         {
             "id": 1,
-            "src": "./img/product-chain-1.png",
-            "title": "Front-End",
-            "description": "As a front-end developer, I craft seamless and visually appealing user experiences on the web. My expertise lies in translating design concepts into interactive and responsive websites that captivate users."
-        },
-        {
-            "id": 2,
-            "src": "./img/tag-1.png",
-            "title": "Back-End",
-            "description": "As a backend developer, I build the robust and invisible foundation that powers your web applications. Behind the scenes, I work with databases, server logic, and APIs to ensure seamless functionality and data management."
-        },
-        {
-            "id": 3,
-            "src": "./img/feather-pen-2.png",
-            "title": "UI & UX Design",
-            "description": "On the UI side, I bring designs to life with a keen eye for aesthetics and a deep understanding of visual hierarchy. From color palettes to typography, I meticulously craft interfaces that not only look good but also enhances usability"
-        },
-        {
-            "id": 4,
-            "src": "./img/product-chain-1.png",
-            "title": "Web Flow Development",
-            "description": "Lorem ipsum dolor sit amet, consectrtur lors jame mjwen djewjend. jneded."
+            "src": "",
+            "title": "",
+            "toolLogo": ["https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png", "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png", "https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png", "https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png", "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/800px-CSS.3.svg.png", "https://banner2.cleanpng.com/20190129/vxi/kisspng-javascript-web-applications-scalable-vector-graphi-5c50fcc8cdff26.2471555315488114648438.jpg", "https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png", "https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png", "https://cdn.icon-icons.com/icons2/2699/PNG/512/json_logo_icon_168490.png", "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png", "https://miro.medium.com/v2/resize:fit:500/1*wXhdUKkpJUQZ-kqtBWCwWA.png",  "https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" ]
         }
     ],
     "portfolio": [
         {
             "id": 1,
-            "src": "./img/placeholder-image.png",
-            "title": "SaaS App",
-            "description": "As a front-end developer, I craft seamless and visually appealing user experiences on the web. My expertise lies in translating design concepts into interactive and responsive websites that captivate users.",
-            "link": "View in Github"
+            "src": "./img/watchStore.png",
+            "title": "Watch Department",
+            "description": "I designed and developed a sleek watch e-commerce platform using React, focusing on intuitive user interfaces and responsive design. This project allowed me to  utilize React's component-based architecture and state management capabilities, ensuring a seamless browsing and purchasing experience for customers.",
+            "link": "https://github.com/ChrisDevalme/Watch-Department",
+            "linkText": "View in Github",
+            "depolyedLink": "",
+            "depolyedLinkText": "View Live Site"
         },
         {
             "id": 2,
-            "src": "./img/placeholder-image-1.png",
-            "title": "Exspense Tracker",
-            "description": "As a backend developer, I build the robust and invisible foundation that powers your web applications. Behind the scenes, I work with databases, server logic, and APIs to ensure seamless functionality and data management.",
-            "link": "View in Github"
+            "src": "./img/project3.png",
+            "title": "Connections App",
+            "description": "As a pivotal member of a development team, I contributed to the creation of Connection. A professional networking app akin to LinkedIn. This platform enables users to post content, seek job opportunities, and connect with professionals. ",
+            "link": "https://github.com/mchen719/connection",
+            "linkText": "View in Github",
+            "depolyedLink": "",
+            "depolyedLinkText": "View Live Site"
         },
         {
             "id": 3,
-            "src": "./img/placeholder-image-1.png",
-            "title": "UI & UX Design",
-            "description": "On the UI side, I bring designs to life with a keen eye for aesthetics and a deep understanding of visual hierarchy. From color palettes to typography, I meticulously craft interfaces that not only look good but also enhances usability",
-            "link": "View in Github"
+            "src": "./img/ticTac1.png",
+            "title": "Tic-Tac-Toe",
+            "description": "This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript. The game allows two players to take turns marking spaces on a 3x3 grid with 'X' and 'O' symbols. The first player to have three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.",
+            "link": "https://github.com/ChrisDevalme/Tic-Tac-Toe-Game",
+            "linkText": "View in Github",
+            "depolyedLink": "",
+            "depolyedLinkText": "View Live Site"
         }
        
+    ],
+    "education": [
+        {
+            "id": 1,
+            "src": "https://www.ucc.edu/wp-content/uploads/2022/10/UC_Logo_Primary_UCNJ.png",
+            "title": "Union College",
+            "degree": "Associate of Science - AS, Computer Science",
+            "attendence": "2021 - 2023",
+            "description": ""
+        },
+        {
+            "id": 2,
+            "src": "https://ga-website-production-herokuapp-com.global.ssl.fastly.net/packs/media/assets/images/logo_1200_by_627-e2f4e80d2e8073fa1b8c0a2bb36f2d46.jpg",
+            "title": "General Assembly",
+            "degree": "Computer Software Engineering",
+            "attendence": "2023 - 2024",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzakcfwx_K-RTY4KxsPfZbGzl9IrcW9W6aO6W_RnBBdQ&s",
+            "title": "Kean College",
+            "degree": "Bachelor's of Science - BS, Computer Science",
+            "attendence": "2024 - 2026",
+            "description": ""
+        }
     ]
 }
